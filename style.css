@@ -78,7 +78,7 @@ input[type="submit"] {
   background-color: #e77d36;
   border: 1px solid #e77d36;
   cursor: pointer;
-  transition: color 0.5s,background 0.5s;
+  transition: color 0.4s,background 0.4s;
 }
 input[type="submit"]:hover {
   background: #fff;
